@@ -1,0 +1,10 @@
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\bin\Debug\MOUSE_REDEMPTION.exe.config
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\bin\Debug\MOUSE_REDEMPTION.exe
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\bin\Debug\MOUSE_REDEMPTION.pdb
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\obj\Debug\MOUSE_REDEMPTION.csprojAssemblyReference.cache
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\obj\Debug\MOUSE_REDEMPTION.Properties.Resources.resources
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\obj\Debug\MOUSE_REDEMPTION.csproj.GenerateResource.cache
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\obj\Debug\MOUSE_REDEMPTION.csproj.CoreCompileInputs.cache
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\obj\Debug\MOUSE_REDEMPTION.exe
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\obj\Debug\MOUSE_REDEMPTION.pdb
+C:\Users\haciy\source\repos\MOUSE_REDEMPTION\obj\Debug\MOUSE_REDEMPTION.fewf.resources
